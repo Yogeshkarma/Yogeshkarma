@@ -79,7 +79,11 @@
 </div>
 
 ---
+[![An image of @yogeshkarma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yogeshkarma)](https://holopin.io/@yogeshkarma)
+---
 
 <p align="center">
   ✨ <i>“Code. Learn. Repeat.”</i> ✨
 </p>
+
+
