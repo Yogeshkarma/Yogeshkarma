@@ -61,7 +61,8 @@
 
 <div align="center">
 
-![Contribution Animation](https://github.com/Yogeshkarma/Yogeshkarma/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Yogeshkarma/Yogeshkarma/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/Yogeshkarma/Yogeshkarma/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
