@@ -23,7 +23,7 @@
 - 💼 Currently working as a **Data Engineer / Python Developer**  
 - 🧩 Passionate about **Data Pipelines, APIs, and Automation**  
 - 🌱 Currently exploring **Machine Learning & LLM Integration**  
-- 🧰 Tools I use: **Python**, **Pandas**, **SQL**, **Django**, **Azure**, **FastAPI**, **Streamlit**  
+- 🧰 Tools I use: **Python**,**LangChain** ,**Pandas**, **SQL**, **Django**, **FastAPI**, **Streamlit**  
 - 💬 Ask me about **Data Engineering, APIs, or AI Projects**  
 - ⚡ Fun fact: I automate boring stuff for fun 😄  
 
