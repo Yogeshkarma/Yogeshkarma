@@ -73,7 +73,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yogeshvish/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=react&logoColor=white&style=for-the-badge)](https://yogeshkarma.github.io)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Yogeshkarma)
 
 </div>
@@ -83,7 +82,7 @@
 ---
 
 <p align="center">
-  ✨ <i>“Code. Learn. Repeat.”</i> ✨
+  ✨ <i>“Bustle the Hustle”</i> ✨
 </p>
 
 
